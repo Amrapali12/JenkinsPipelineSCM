@@ -1,0 +1,23 @@
+https://www.linkedin.com/pulse/can-tp-iso-15765-2-vivek-maurya
+
+
+https://www.bing.com/videos/search?q=how+to+send+data+from+zenkins+to+mail&ru=%2fvideos%2fsearch%3fq%3dhow%2bto%2bsend%2bdata%2bfrom%2bzenkins%2bto%2bmail%26FORM%3dHDRSC4&view=detail&mid=969B8483658C85B51AEC969B8483658C85B51AEC&rvsmid=CCCBD83FA58544DA9E6DCCCBD83FA58544DA9E6D&FORM=VDQVAP
+
+
+
+http://localhost:8080/safeRestart
+
+
+https://youtu.be/XtTmns0_Y2M
+
+
+https://www.toolsqa.com/jenkins/jenkins-pipeline/
+*********************************************************************************************
+Jenkins initial setup is required. An admin user has been created and a password generated.
+Please use the following password to proceed to installation:
+
+3902b426ba044de9ab20e6935d9d318a
+
+This may also be found at: C:\Users\amraingl\.jenkins\secrets\initialAdminPassword
+
+https://tudip.com/blog-post/configure-jenkins-job-to-run-batch-command/
